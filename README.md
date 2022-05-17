@@ -24,3 +24,7 @@ function kruskal(graph)
       forest.add(u.parent)
   return forest
 ```
+
+Here is a video of the algorithm:
+
+![Kruskals Algorithm](https://www.youtube.com/watch?v=_XQZ-_XQZ-_)
