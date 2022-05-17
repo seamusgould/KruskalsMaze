@@ -25,6 +25,6 @@ function kruskal(graph)
   return forest
 ```
 
-Here is a video of the algorithm:
+Here is a video of the algorithm for 8x8 maze (other sizes are supported as well):
 
-![Kruskals Algorithm](https://www.youtube.com/watch?v=_XQZ-_XQZ-_)
+![Kruskals Algorithm](https://github.com/seamusgould/KruskalsMaze/blob/master/maze.gif?raw=true)
